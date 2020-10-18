@@ -1,0 +1,9 @@
+{
+    "name": "Material Design Icons v1",
+    "alias": "witsec-material-design-icons",
+    "version": 1,
+    "minAppVersion": "4",
+    "plugins": ["material-design"],
+    "description": "Add Material Design icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
+    "logo": "thumbnail.svg"
+}
